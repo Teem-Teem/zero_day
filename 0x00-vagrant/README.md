@@ -1,0 +1,1 @@
+Debanner_stressed
